@@ -10,6 +10,11 @@
 
 <br/>
 <br/>
+
+### Project working on Now
+
+- Allsides Web scraper
+
 ### Projects in Mind
 
 - Reddit Web scraper
