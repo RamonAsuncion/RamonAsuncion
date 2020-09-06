@@ -2,6 +2,8 @@
 
 ### Languages
 
+<img src="/assets/images/html.png" />
+
 ### Projects in Mind
 
 - Reddit Web scraper
