@@ -2,7 +2,7 @@
 
 ### Languages
 
-<img src="/assets/images/html.png" />
+[<img src="\assets\images\html.png" align="left" />]
 
 ### Projects in Mind
 
