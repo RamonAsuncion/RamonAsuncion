@@ -1,8 +1,9 @@
 ### Hello, I am Ramon. [ramonasuncion.me][website]
 
+I am a self taught programmer working on projects that I am interested in.
 <br/>
 
-### Languages
+### Languages I know:
 
 <a href="https://ibb.co/pzS4nr8"><img src="https://i.ibb.co/4TH4JgG/css.png" alt="css" width="21.5"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/XzBZv4C/html.png" alt="html" width="30"></a>
@@ -13,13 +14,13 @@
 
 ---
 
-### Project working on Now
+### Project working on Now:
 
 - Allsides Web scraper
 
 ---
 
-### Projects in Mind
+### Projects in Mind:
 
 - Reddit Web scraper
 - Discord Bot
