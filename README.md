@@ -29,4 +29,7 @@ I am a self taught programmer working on projects that I am interested in.
 - Avatar Creator
 - Messing with the Alexa API
 
+### Unfinished Projects:
+- My website
+
 [website]: https://ramonasuncion.me/
