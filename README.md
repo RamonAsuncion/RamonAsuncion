@@ -16,13 +16,12 @@ I am a self taught programmer working on projects that I am interested in.
 
 ### Project working on Now:
 
-- Allsides Web scraper
+- Reddit Web scraper
 
 ---
 
 ### Projects in Mind:
 
-- Reddit Web scraper
 - Discord Bot
 - Twitch Bot
 - Path finding
