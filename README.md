@@ -28,8 +28,11 @@ I am a self taught programmer working on projects that I am interested in.
 - Path finding 
 - Avatar Creator 
 - Messing with the Alexa API 
+- Web app
+- Full Stack project 
 
 #### Unfinished Projects:
+
 - My website
 
 [website]: https://ramonasuncion.me
