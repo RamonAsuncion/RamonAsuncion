@@ -30,6 +30,7 @@ I am a self taught programmer working on projects that I am interested in.
 - Messing with the Alexa API 
 - Web app
 - Full Stack project 
+- Blog (this is just to make one for the interest of it)
 
 #### Unfinished Projects:
 
