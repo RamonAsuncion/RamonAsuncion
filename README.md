@@ -18,6 +18,8 @@ I am a self taught programmer working on projects that I am interested in.
 ### Project working on Now:
 
 - Reddit Web scraper 
+- Mastermind Game
+- 2D Game 
 
 ---
 
