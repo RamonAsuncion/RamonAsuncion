@@ -1,4 +1,4 @@
-### Hello, I am Ramon. [ramonasuncion.me][website]
+### Hello, I am Ramon. [https://ramonasuncion.github.io/][website]
 
 I am a self taught programmer working on projects that I am interested in.
 <br/>
@@ -38,4 +38,4 @@ I am a self taught programmer working on projects that I am interested in.
 
 - My website
 
-[website]: https://ramonasuncion.me
+[website]: https://ramonasuncion.github.io/
