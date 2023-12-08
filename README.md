@@ -4,6 +4,6 @@ I am not sure what I want to accomplish in the future,
 but I do know that it will include programming in some way.
 
 Current projects.
-1. Aurum programming langauge
+1. Haud programming langauge
 2. DizzyBox Linux Distribution
-3. Pong-OS
+3. X86 Operating System
